@@ -1,0 +1,32 @@
+{
+  "cart": [
+    {
+      "id": 1,
+      "title": "cart Churchill fins11",
+      "view": 2837,
+      "quantity" : 3,
+      "price" : 120
+    },
+    {
+      "id": 2,
+      "title": "wax22",
+      "view": 112,     
+      "quantity" : 2,
+      "price" : 5
+    },
+    {
+      "id": 3,
+      "title": "manta pro33",
+      "view": 98,
+      "quantity" : 0,
+      "price" : 530
+    },
+    {
+      "id": 4,
+      "title": "manta bag",
+      "view": 98,
+      "quantity" : 2,
+      "price" : 55
+    }
+  ]
+}
